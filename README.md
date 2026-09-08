@@ -25,20 +25,23 @@ O reconhecimento de dígitos manuscritos é um problema clássico de visão comp
 3. **MLP (Rede Neural)**
 
 ## 📁 Estrutura do Projeto
+
+```
 meu-projeto-ia/
 │
-├── data/ # Dados do projeto
-│ └── dados_funcionarios.csv # Dados gerados para análise
+├── data/                          # Dados do projeto
+│   └── dados_funcionarios.csv     # Dados gerados para análise
 │
-├── notebooks/ # Notebooks Jupyter
-│ └── fase1_eda_mnist.ipynb # Análise completa
+├── notebooks/                     # Notebooks Jupyter
+│   └── fase1_eda_mnist.ipynb      # Análise completa
 │
-├── src/ # Código fonte Python
-│ └── analise.py # Funções auxiliares
+├── src/                           # Código fonte Python
+│   └── analise.py                 # Funções auxiliares
 │
-├── requirements.txt # Dependências do projeto
-├── README.md # Documentação
-└── .gitignore # Arquivos ignorados
+├── requirements.txt               # Dependências do projeto
+├── README.md                      # Documentação
+└── .gitignore                     # Arquivos ignorados
+```
 
 ## 🔄 Fluxo de Trabalho (Git)
 
